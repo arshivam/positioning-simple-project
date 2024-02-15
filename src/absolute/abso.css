@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+   
+}
+
+.container{
+    position: relative;
+    text-align: center; 
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    left: 40px;
+    top: 50px;
+}
+
+.abso {
+    position: absolute;
+    text-align: center;
+    background-color: green;
+    height: 100px;
+    width: 150px;
+    left: 100px;
+    top: 100px;
+
+}
